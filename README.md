@@ -2,9 +2,8 @@
     
 
 🎓 Graduado em analise e desenvolvimento de sistemas </br>
-📚 Atualmente estou estudando Typescritp, JavaScript, React-Native, ReactJs e Html5</br>
-❤  Front End Designer</br>
-🍀 Web Developer
+🍀 Full-Stack Developer </br>
+ 
 
 
 <div align="center">
